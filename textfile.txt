@@ -1,1 +1,5 @@
 Hi, This is Rani.
+New to git hub.
+
+git commit -m "add textfile.txt and it is updated"
+git remote add origin https://github.com/Rani28/tutorial13.git
