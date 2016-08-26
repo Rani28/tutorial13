@@ -1,0 +1,11 @@
+public class Case1 {
+    public void create()
+    {
+      case cs = new case();
+        cs.subject='Test';
+        
+        insert cs;
+      
+    }
+
+}
