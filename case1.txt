@@ -3,6 +3,7 @@ public class Case1 {
     {
       case cs = new case();
         cs.subject='Test';
+		cd.description='Test';
         
         insert cs;
       
